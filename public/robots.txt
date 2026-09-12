@@ -1,0 +1,17 @@
+User-agent: *
+Allow: /
+
+# Directives for major search engines
+User-agent: Googlebot
+Allow: /
+
+User-agent: Bingbot
+Allow: /
+
+User-agent: Yandex
+Allow: /
+
+User-agent: Baiduspider
+Allow: /
+
+Sitemap: https://www.codeplayground.tools/sitemap.xml
